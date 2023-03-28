@@ -3,7 +3,7 @@
   ⚡I'm an Electromechanical Technician⚡
 <br>🎓Currently studying computer engineering🎓
 <br>🤓In a scholarship trying to carry out tecnological development🤓
-<br>🐱‍👤I don't specialise in any language but I like structure-oriented programming🐱‍👤</br>
+<br>🐱‍👤I don't specialise in any language but I prefer structure-oriented programming🐱‍👤</br>
 </h2>
 
 
