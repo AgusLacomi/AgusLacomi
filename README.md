@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustín Lacomi</h1>
 <h3 align="center">🤓I'm passionate for technological development, research and teamwork🤓</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguslacomi" alt="aguslacomi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agusLacomi&theme=onedark"  alt="aguslacomi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
