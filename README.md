@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLacomi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="aguslacomi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgusLacomi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="aguslacomi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AgusLacomi&theme=dracula&hide_border=false" alt="aguslacomi" /></p>
-
-[![](https://visitcount.itsvg.in/api?id=AgusLacomi&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
